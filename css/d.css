@@ -1,0 +1,262 @@
+#contenedor,html{
+	height:100%;padding:0px;margin:0px;
+	background-image: url("../img/fondo2.jpg");
+	
+}
+	
+#izquierda{ 
+	display: inline-block; 
+	width: 30%;
+	height: 100%;
+	position: fixed;
+	left: 0px;
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+.controlesNave{
+	width: auto; height: auto; 
+	max-width: 150px;
+	background-color:#A4A4A4;
+	margin: 10px;
+	width: 100%;
+	border-style: outset;
+	border-color:#B40404;
+	font-size: 120%;
+	padding: 2px;
+	margin-bottom: 15px;
+}
+#botonOn{
+	display: none;
+}
+
+#derechaSmartphone{display: none;}
+
+#derecha{
+	background-repeat: no-repeat;
+	background-position: right; 
+	background-size: 30%;
+	display:block !important;
+	pointer-events: auto;
+	width:35%; height:100%;
+	position: fixed; right: 0px;
+}
+
+#reanudar:active {border-style: inset;}
+#reanudar:hover {background-color:#A4A4A4; font-size: 100%;}
+#pausa:active {border-style: inset;}
+#pausa:hover {background-color:#A4A4A4; font-size: 100%;}
+#reinicia:active {border-style: inset;}
+#reinicia:hover {background-color:#A4A4A4; font-size: 100%;}
+#instrucciones:active {border-style: inset;}
+#instrucciones:hover {background-color: #A4A4A4; font-size: 100%;}
+#botonAjustes:active {border-style: inset;}
+#botonAjustes:hover {background-color:#A4A4A4; font-size: 100%;}
+#close:active {border-style: inset;}
+#close:hover {background-color:#A4A4A4;}
+
+#reanudar {
+	border-style: outset;
+	border-color:#B40404;
+	display: none;
+	float: right;
+	background-color:#A4A4A4;
+	margin: 10px;
+	margin-top: 5%;
+	color: black;
+	font-size: 0%;
+	text-align: center;
+	width: 70px;
+	height: 70px;
+	background-image: url("../img/play.png");
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: 50% 50%;
+	pointer-events: auto;
+}
+#reanudar p {
+	margin-top: 0px;
+}
+
+#pausa {
+	border-style: outset;
+	border-color:#B40404;
+	display: inline-block;
+	float: right;
+	background-color: #A4A4A4;
+	margin: 10px;
+	margin-top: 5%;
+	color: black;
+	text-align: center;
+	font-size: 0%;
+	width: 70px;
+	height: 70px;
+	background-image: url("../img/pausa.jpg");
+	background-repeat: no-repeat;
+	background-size: 40%;
+	background-position: 50% 50%;
+}
+#reinicia {
+	border-style: outset;
+	border-color: #B40404;
+	display: inline-block;
+	width: 70px; height: 70px;
+	float: right;
+	font-size: 0%;
+	color: black;
+	text-align: center;
+	vertical-align: text-top;
+	background-color:#A4A4A4;
+	margin: 10px;
+	margin-top: 5%;
+	background-image: url("../img/reinicia.jpg");
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: 50% 50%;
+}
+#reinicia p {
+	margin-top: 0px;
+}
+#instrucciones {
+	border-style: outset;
+	border-color: #B40404;
+	display: inline-block;
+	float: right;
+	background-color:#A4A4A4;
+	margin: 10px;
+	margin-top: 5%;
+	width: 70px;
+	height: 70px;
+	color: black;
+	text-align: center;
+	font-size: 0%;
+	background-image: url("../img/ayuda.png");
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: 50% 50%;
+}
+#instrucciones p {
+	margin-top: 0px;
+}
+#botonAjustes {
+	border-style: outset;
+	border-color:#B40404;
+	display: inline-block;
+	float: right;
+	background-color:#A4A4A4;
+	margin: 10px;
+	margin-top: 5%;
+	width: 70px;
+	height: 70px;
+	color: black;
+	text-align: center;
+	font-size: 0%;
+	background-image: url("../img/settings.jpg");
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: 50% 50%;
+}
+#botonAjustes p {
+	margin-top: 0px;
+}
+
+#derechaSmartphone {display: none;}
+
+#settings{
+	display: none;
+	background-image: url("../img/fondo_instrucciones.jpg");
+	text-align: center;
+	border-style: outset;
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 10%;
+}
+#dificultad {
+	padding: 10px;
+	font-size: 120%;
+}
+#modeloLuna {
+	padding: 10px;
+	font-size: 120%;
+}
+#modeloNave {
+	padding: 10px;
+	font-size: 120%;
+}
+
+#menuInstrucciones {
+	margin: 5%;
+	background-image: url("../img/fondo_instrucciones.jpg");
+	text-align: center;
+	border-style: outset;
+	position: absolute;
+	display: none;
+}
+#menuInstrucciones b {
+	background-color: #A4A4A4;
+	border-style: outset;
+}
+#close {
+	background-color:#A4A4A4;
+	border-style: solid;
+	border-color: #B40404;
+	width: 15%;
+	max-width: 50px;
+	position: absolute;
+	top: 2px;
+	right: 2px;
+}
+
+
+#luna {
+	height: 10%; 
+	width: 100%;
+    position: fixed;
+    bottom: 0px;
+    height: 10%;
+   
+}
+
+
+#nave{
+	text-align:center;
+	position:fixed;
+	top:5%;
+	width:100%;
+	height:15%;
+}
+#imgNave{
+	height:100%;
+	display: block;
+	margin: auto;
+}
+#imgMotor{
+	height: 40%;
+	display: none;
+	margin: auto;
+}
+
+#gameOver{
+	background-image: url("../img/fondo_instrucciones.jpg");
+	text-align: center;
+	border-style: outset;
+	position: absolute;
+	display: none;
+	width: 80%;
+	left: 10%;
+	top: 10%;
+}
+
+#userWin{
+	background-image: url("../img/fondo_instrucciones.jpg");
+	text-align: center;
+	border-style: outset;
+	position: absolute;
+	display: none;
+	width: 80%;
+	left: 10%;
+	top: 10%;
+}
+#jugarOtraVezSmartphone{display: none;}
+#jugarAgainSmartphone{display: none;}
