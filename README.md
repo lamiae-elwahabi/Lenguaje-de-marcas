@@ -1,7 +1,9 @@
 # Repositorio práctica de lenguaje de marcas
 
 Trabajo Lunar Lander
+
 Cliente (Jesus)
+
 Programador (Lamiae EL Wahabi)
 Trabajo propuesto por el profesor Miguel Ángel Urbina, en la asignatura de Lenguaje de Marcas
 ¿En que consiste el juego?
