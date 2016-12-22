@@ -2,7 +2,7 @@
 
 Trabajo Lunar Lander
 
-Cliente (Jesus)
+Cliente (Jesús Martínez campos)
 
 Programador (Lamiae EL Wahabi)  
 
@@ -15,6 +15,7 @@ Diseñado con:
 HTML5
 CSS3
 JavaScript
+
 Cambios realizados a gusto del programador sobre el proyecto del cliente
 Los siguientes cambios realizados en el proyecto:
 1. Intercambio de imagen "play" por un "pause" en la página principal, el cambio consiste en que cuando el usuario elija la opción "pause", se añada una imagen "play" centrada en la pantalla y así poder reanudar el juego con la función "play".
