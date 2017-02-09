@@ -59,7 +59,7 @@
   </question>
 
   <question id='mrl07'>
-  <type>select multiple</type>
+  <type>multiple</type>
   <title>Que elementos son inline?</title>
   <option>&lt;div&gt;</option>
   <option>&lt;span&gt;</option> 
@@ -72,7 +72,7 @@
   </question>
 
   <question id='mrl08'>
-  <type>select multiple</type>
+  <type>multiple</type>
   <title>¿Qué elementos son block?</title>
   <option>Los que inician nueva línea</option>
   <option>Los que retroceden una línea</option> 
