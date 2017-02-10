@@ -12,7 +12,7 @@ El rol del juego es aterrizar la nave lo más despacio posible sobre la luna, si
 Lenguajes utilizados en el proyecto
 Diseñado con:
 
-HTML5
-CSS3
-JavaScript
+* HTML5    
+* CSS3  
+* JavaScript  
 
