@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE questions SYSTEM "questions.dtd">
 
+
+
 <questions>
+<!--question (id rmlXX) = pregunta con un id "mrl" (Marc, Ramona, Lamiae) seguido de 2 dígitos para enumerarlas-->
 
   <question id='mrl01'>
   <type>checkbox</type>
