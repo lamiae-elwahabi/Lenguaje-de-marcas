@@ -4,7 +4,7 @@ Trabajo Lunar Lander
 
 Cliente (Jesús Martínez campos)
 
-Programador (Lamiae EL Wahabi)  
+Programadora (Lamiae EL Wahabi)  
 
 Trabajo propuesto por el profesor Miguel Ángel Urbina, en la asignatura de Lenguaje de Marcas
 ¿En que consiste el juego?
