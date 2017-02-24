@@ -4,30 +4,6 @@
 <!DOCTYPE questions>
 
 <questions>
-  <question id='mrl01'>
-  <type>checkbox</type>
-  <title>¿Qué etiquetas pueden figurar en la sección &lt;head&lt;?</title>
-  <option>&lt;style&gt;</option>
-  <option>&lt;title&gt;</option>
-  <option>&lt;header&gt;</option>
-  <option>&lt;footer&gt;</option>
-  <option>&lt;p&gt;</option>
-  <answer>0</answer>
-  <answer>1</answer>
-  </question>
-
-  <question id='mrl02'>
-  <type>checkbox</type>
-  <title>Que sentencias son ciertas de JS?</title>
-  <option>Es un lenguaje interpretado.</option>
-  <option>Hay compilación</option>
-  <option>No hay compilación</option>
-  <option>JS significa JavaScript</option>
-  <answer>0</answer>
-  <answer>2</answer>
-  <answer>3</answer>
-  </question>
-
   <question id='mrl03'>
   <type>text</type>
   <title>Que significa CSS?</title>
@@ -39,7 +15,7 @@
   <title>Cual es el nombre del elemento raiz de un documento html?</title>
   <answer>html</answer>
   </question>
-
+  
   <question id='mrl05'>
   <type>select</type>
   <title>¿Que es XHTML?</title>
@@ -58,7 +34,7 @@
   <option>Para que sea incompatible con algunos navegadores</option>
   <answer>2</answer>
   </question>
-
+  
   <question id='mrl07'>
   <type>multiple</type>
   <title>Que elementos son inline?</title>
@@ -81,6 +57,30 @@
   <option>Los que ocupan 100% de alto</option>
   <answer>0</answer> 
   <answer>2</answer> 
+  </question>
+
+  <question id='mrl01'>
+  <type>checkbox</type>
+  <title>¿Qué etiquetas pueden figurar en la sección &lt;head&lt;?</title>
+  <option>&lt;style&gt;</option>
+  <option>&lt;title&gt;</option>
+  <option>&lt;header&gt;</option>
+  <option>&lt;footer&gt;</option>
+  <option>&lt;p&gt;</option>
+  <answer>0</answer>
+  <answer>1</answer>
+  </question>
+
+  <question id='mrl02'>
+  <type>checkbox</type>
+  <title>Que sentencias son ciertas de JS?</title>
+  <option>Es un lenguaje interpretado.</option>
+  <option>Hay compilación</option>
+  <option>No hay compilación</option>
+  <option>JS significa JavaScript</option>
+  <answer>0</answer>
+  <answer>2</answer>
+  <answer>3</answer>
   </question>
 
   <question id='mrl09'>
