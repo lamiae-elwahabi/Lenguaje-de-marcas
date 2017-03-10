@@ -79,7 +79,7 @@
   
   <question id='mrl09'>
   <type>checkbox</type>
-  <title>¿Qué etiquetas pueden figurar en la sección &lt;head&lt;?</title>
+  <title>¿Qué etiquetas pueden figurar en la sección &lt;head&gt;?</title>
   <option>&lt;style&gt;</option>
   <option>&lt;title&gt;</option>
   <option>&lt;header&gt;</option>
