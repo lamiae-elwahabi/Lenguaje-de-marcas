@@ -17,4 +17,4 @@ IES Francesc de Borja Moll
 ####El formulário contiene un boton de corregir, que al ser seleccionado muestra la puntuación total obtenida
 
 ##Recursos consultados:
-* ![https://www.w3schools.com/](Consultar w3school)
+* ![Pagina w3school](https://www.w3schools.com/)
