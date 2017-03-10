@@ -1,6 +1,8 @@
 ###Proyecto FormulariosXML
 
 Autora: Lamiae EL Wahabi
+Estudiante de FPGS DAW DUAL
+IES Francesc de Borja Moll
 
 ####Proyecto de formulario con autocorrección mediante _html5, css3, JavaScript y xml.
 
