@@ -40,11 +40,11 @@
   <question id='mrl05'>
   <type>multiple</type>
   <title>Que elementos son inline?</title>
-  <option>&lt;div&gt;</option>
-  <option>&lt;span&gt;</option> 
-  <option>&lt;a&gt;</option>
-  <option>&lt;img&gt;</option>
-  <option>&lt;form&gt;</option>
+  <option>div</option>
+  <option>span</option> 
+  <option>a</option>
+  <option>img</option>
+  <option>form</option>
   <answer>1</answer> 
   <answer>2</answer> 
   <answer>3</answer> 
