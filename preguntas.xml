@@ -19,11 +19,11 @@
   <question id='mrl03'>
   <type>checkbox</type>
   <title>¿Qué etiquetas pueden figurar en la sección &lt;head&gt;?</title>
-  <option><style></option>
-  <option><title></option>
-  <option><header></option>
-  <option><footer></option>
-  <option><p></option>
+  <option>style</option>
+  <option>title</option>
+  <option>header</option>
+  <option>footer</option>
+  <option>p</option>
   <answer>0</answer>
   <answer>1</answer>
   </question>
