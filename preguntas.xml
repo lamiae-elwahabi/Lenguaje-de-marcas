@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <questions>
   <question id='mrl01'>
   <type>text</type>
@@ -18,11 +19,11 @@
   <question id='mrl03'>
   <type>checkbox</type>
   <title>¿Qué etiquetas pueden figurar en la sección &lt;head&gt;?</title>
-  <option>&lt;style&gt;</option>
-  <option>&lt;title&gt;</option>
-  <option>&lt;header&gt;</option>
-  <option>&lt;footer&gt;</option>
-  <option>&lt;p&gt;</option>
+  <option><style></option>
+  <option><title></option>
+  <option><header></option>
+  <option><footer></option>
+  <option><p></option>
   <answer>0</answer>
   <answer>1</answer>
   </question>
@@ -98,3 +99,4 @@
   <answer>2</answer> 
   </question>
 </questions>
+
