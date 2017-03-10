@@ -15,7 +15,5 @@ IES Francesc Borja Moll
 * Dos preguntas tipo CHECKBOX.
 * Dos preguntas tipo RADIO.
 
-####El formulário contiene un boton de corregir, que al ser seleccionado muestra la puntuación total obtenida
+####El formulário contiene un boton de corregir tu examen, que al ser seleccionado muestra la puntuación total obtenida.
 
-##Recursos consultados:
-* ![Pagina w3school](www.w3schools.com)
