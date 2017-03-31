@@ -1,0 +1,98 @@
+body,html{
+	margin:0px
+}
+body{
+ background-image: url("http://chainimage.com/images/green-butterfly-desktop-background-wallpaper.jpg");
+	
+
+
+}
+body,input,select,label{
+	font-size:2vw
+}
+h3{
+	color:#225b22;
+	font-size:2vw;
+}
+select{
+	width:50%;
+}
+input[type=checkbox]{
+	width:5%;
+	zoom:1.5
+}
+input[type=text]{
+	background-color: #dcf2c6;
+}
+input[type=submit]{
+	margin:5%;
+	margin-left: 30%;
+	width: 35%;
+	font-family: sans-serif ;
+	border-radius: 10px 10px 10px 10px;
+	background-color:#a8e86a;
+	color: #dcf2c6;	
+    cursor: pointer;
+}
+form{
+	border-radius: 10px 10px 10px 10px;
+	margin-top: 0%;
+	margin-bottom:10%;
+	margin-left:15%;
+	margin-right:15%;
+	background-color:#cbe0c9;
+	padding:3%;
+	font-family: sans-serif ;
+}
+#resultadosDiv {
+	width: 60%;
+	position: relative;
+	margin-left: 25%;
+	background: #225b22;
+	text-align: center;	
+	color: #dcf2c6;
+	border-radius: 10px 10px 10px 10px;
+	font-family: sans-serif ;
+	font-size: 2vw;
+	z-index: 1;
+}
+#resultadoTotal {
+	width: 50%;
+	position: relative;
+	margin-left: 25%;
+	background:#225b22;
+	text-align: center;	
+	color: #dcf2c6;
+	border-radius: 10px 10px 10px 10px;
+	font-family: sans-serif ;
+}
+#total{
+	font-size: 5vw;
+}
+#respuestas{
+	cursor: pointer;
+}
+#cabecera{
+	border-radius: 10px 10px 10px 10px;
+	position: relative;
+	height: 25%;
+	background-color: #a8e86a;	
+	margin: 2%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: sans-serif ;
+}
+#logo{
+	width: 20%;
+}
+
+#titulo{
+	text-align: center;
+    font-family: sans-serif;
+	font-size: 4vw;
+	color: #2e4716;
+}
+p {
+	text-align: center;
+	
+}
