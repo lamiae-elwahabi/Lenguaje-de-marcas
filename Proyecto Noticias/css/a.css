@@ -1,0 +1,92 @@
+
+body{
+
+	margin:0px;
+}
+#cabecera{
+	border-radius: 10px 10px 10px 10px;
+	position: relative;
+	height: 25%;
+	background-color:#98FB98;
+	margin: 2%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: sans-serif ;
+	
+}
+h2 {
+	text-align: left;
+}
+.navbar-brand img{
+	
+    margin-top: 20px;
+	width: 40%;
+    height: auto;
+}
+.publ {
+	width: 100%;
+}
+.main-container {
+	    margin-right: 300px;
+}
+#publi {
+    border-radius: 5px;
+    width: 300px;
+    height: 800px;
+    overflow: auto;
+    
+    float: right;
+    margin: 0px;
+    padding: 20px;
+}
+#publiM {
+   
+    height: 90px;
+	width: 100%
+}
+.navbar-fixed-top {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.container-fluid {
+	border-style: inset;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 20px;
+	background-color: aqua;
+	margin: 10px 5px;
+}
+.container-fluid::after {
+	clear: none;
+}
+.read {
+	text-align: right;
+}
+.imagen {
+	width: 30%;
+	margin :auto;
+	
+}
+
+.img-responsive, .center-block {
+	width: 100%;
+}
+@media (max-width:992px) {
+	
+
+	#publi  {
+		position: fixed;
+		bottom: 0;
+		max-height: 90px;
+		width: 100%;
+		overflow: hidden;
+	}
+	.main-container {
+		    margin-right: 0px;
+	}
+}
+
+
